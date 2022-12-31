@@ -1,0 +1,170 @@
+    1  eco $PATH
+    2  eco$PATH
+    3  which cat
+    4  man tac
+    5  which tac
+    6  ls
+    7  ls /user/sbin
+    8  which tac
+    9  ls/user/bin
+   10  ls
+   11  ls /usr/sbin
+   12  --help
+   13  -h
+   14  ls --help
+   15  gzip-h
+   16  gzip -h
+   17  man vtimes
+   18  man -k vtimes
+   19  man cd
+   20  man <command>
+   21  man <command name>
+   22  man <commandname>
+   23  pwd
+   24  cd ../
+   25  ln
+   26  ls
+   27  eco $OLDPWD
+   28  PWD
+   29  pwd
+   30  cd .
+   31  ls
+   32  eco $PATH
+   33  LS
+   34  ls
+   35  eco $PATH
+   36  echo $PATH
+   37  which cat
+   38  cat Documents/one/
+   39  ./cat
+   40  ln
+   41  la
+   42  ls
+   43  ls -l
+   44  rmdir[p]riddhimhatre
+   45  ls
+   46  pwd
+   47  rmdir[-p]home
+   48  rmdir[-p] home
+   49  ls
+   50  rmdir -p riddhimhatre
+   51  cd riddhimhatre
+   52  ls
+   53  rm -rf riddhimhatre
+   54  ls
+   55  cd ~
+   56  ls
+   57  cd riddhimhatre
+   58  cd Home
+   59  ls
+   60  cd Riddhi
+   61  ls
+   62  rmdir -pRoom
+   63  rmdir -Room
+   64  rmdir -p Room
+   65  ls
+   66  cd Room
+   67  cd ../
+   68  cd Home
+   69  ls
+   70  rmdir -p riddhimhatre
+   71  ls
+   72  rm -rf riddhimhatre
+   73  cd riddhimhatre
+   74  ls
+   75  ls -l
+   76  cd riddhimhatre
+   77  cd home
+   78  cd Room
+   79  Cd Home
+   80  exit
+   81  eco @PATH
+   82  eco$PATH
+   83  which cat
+   84  logout
+   85  cat file.text
+   86  -l > files.txt
+   87  ls -l 1 > filess.txt
+   88  clear
+   89  sort < files.txt > soterfiles.txt
+   90  cat soterfiles.txt
+   91  cat files.txt
+   92  ls -l > files.txt
+   93  sort < files.txt > soterfiles.txt
+   94  cat soterfiles.txt
+   95  ls files.txt nofiles.txt
+   96  ls files.txt nofiles.txt > out
+   97  cat out 
+   98  ls files.txt nofile.txt 2> out
+   99  cat out
+  100  ls files.txt nofile.txt > out 2> out.err
+  101  cat out*
+  102  cat out
+  103  cat out.err
+  104  ls files.xt nofiles.txt > out.both 2>&1
+  105  cat out.both
+  106  ls files.txt nofiles.txt 2>/dev/null
+  107  ls files.txt nofiles.txt 1>/dev/null
+  108  grep imply secret
+  109  grep t secret
+  110  grep -v t secret
+  111  grep Imply secret
+  112  grep -i Imply secret
+  113  ls Rod.mp3
+  114  strings Rod.mp3 | grep -i rod
+  115  strings Rod.mp3 | grep -i Noises | head -l
+  116  grep teja 
+  117  strings Rod.mp3 | grep -i rod
+  118  clear
+  119  grep riddhi /etc/passwd
+  120  grep riddhi /ect/password | cut -d: -fl,5
+  121  grep s /ect/password | cut -d: -f1,5 
+  122  grep sy / ect/passwd | cut -d: -f1,5
+  123  grep sy / ect/passwd | cut -d: -f1,5 | sort | tr 
+  124  grep sy / ect/passwd | cut -d: -f1,5 | sort | tr ":" " "
+  125  grep sy / ect/passwd | cut -d: -f1,5 | sort | tr ":" " " | column -t
+  126  clear
+  127  cat /ect/password
+  128  cat /ect/passwd
+  129  q
+  130  q
+  131  Q
+  132  g
+  133  clear
+  134  grep bin /etc/passwd
+  135  q
+  136  uit
+  137  quit
+  138  exit
+  139  clera
+  140  clear
+  141  eco $PS1
+  142  echo $PS1
+  143  PS1="[\u@\h \w]\s"
+  144  ="<\u@\h \d \t \w>\$"
+  145  clear
+  146  exit
+  147  clear
+  148  PS1="\t\n[u@\h \W]\$
+  149  PS1="\t\n[\u@\h \W]\$"
+  150  echo "Hi"
+  151  exit
+  152  which git
+  153  sudo apt update
+  154  sudo apt install git
+  155  sudo apt install git -y
+  156  git --version
+  157  clear
+  158  which get 
+  159  which git
+  160  clear
+  161  brew intall git
+  162  exit
+  163  git log
+  164  git remote -v
+  165  git remote add origin https://github.com/Riddhimhatre/Eficens-Demo.git
+  166  -v
+  167  git remote -v
+  168  history
+  169  riddhi.txt
+  170  history > riddhi.txt
